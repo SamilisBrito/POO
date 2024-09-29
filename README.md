@@ -1,5 +1,3 @@
-# README
-
 Este projeto foi desenvolvido no curso +praTI, abordando conceitos de Programação Orientada a Objetos em Java.
 
 ## Atividades
